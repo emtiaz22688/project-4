@@ -1,0 +1,166 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+   
+    background-image: url('image/banner\ \(2\).webp'); 
+    background-size: cover;       
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 400px;                
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+
+    
+    
+}
+
+
+h1{
+    top: 511px;
+    position: absolute;
+    color: black;
+    left: 387px;
+    font-size: 39px;
+    font-family: ari;
+    text-transform: capitalize;
+    font-weight: normal;
+
+}
+h2{
+    position: relative;
+  top: 585px;
+  color: black;
+  font-size: 18px;
+  left: -115px;
+  font-weight: normal;
+}
+h3{
+    position: absolute;
+    top: 621px;
+    color: black;
+    font-size: 18px;
+    left: 674px;
+    font-weight: normal;
+}
+  .navbar {
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding:
+15px 50px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  height: 38px;
+  position: absolute;
+  width: 1179px;
+  top: 0px;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #3bb44a; /* Greenish color like Flyrn */
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 25px;
+}
+
+.nav-links a {
+    text-decoration:
+    none;
+      color: #333;
+      font-size: 18px;
+      transition:
+    color 0.3s;
+      left: 220px;
+      position: relative;
+}
+
+.nav-links a:hover {
+    color: #3bb44a;
+}
+
+.login-btn {
+    background-color: #3bb44a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #2a8c37;
+}
+
+.fa{
+    top: 612px;
+    left: 474px;
+    position: absolute;
+    font-size: 35px;
+    color: green;
+}
+.text{
+color: black;
+}
+
+
+  
+.try{
+
+}
+.fa{
+    top: 611px;
+  left: 414px;
+  font-size: 35px;
+  color: green;
+}
+
+.try{
+    color: green;
+  top: 608px;
+  left: 622px;
+}
+/*--frist section*/
+/*secound section*/
+.content{
+
+}
+.content1{
+    position: absolute;
+    top: 795px;
+    left: 351px;
+    text-align: center;
+}
+h4{
+    color: black;
+    font-size: 37px;
+    font-weight: bold;
+}
+h5{
+    color: black;
+    font-size: 22px;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+hr{
+    color: green;
+  width: 462px;
+  left: 77px;
+  position: absolute;
+  font-weight: bold;
+  height: 0px;
+}
